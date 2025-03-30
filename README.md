@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!-- 📫 Let's Connect -->
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kumari)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushikumari28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat&logo=github&logoColor=white)](https://github.com/khushiiikk)  
 [![Blog](https://img.shields.io/badge/-Blog-orange?style=flat&logo=wordpress&logoColor=white)](https://khushi-blog.com)  
 
