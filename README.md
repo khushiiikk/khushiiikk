@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!-- 💡 Skills & Tech Stack -->
 ### 💡 Skills & Tech Stack  
-- **Languages:** Python, Java  
+- **Languages:** Python,  
 - **Libraries & Frameworks:** TensorFlow, PyTorch, NumPy, Pandas  
 - **Tools:** Jupyter, Google Colab, VS Code, Git  
 - **Domains:** Machine Learning, Deep Learning, Data Visualization  
