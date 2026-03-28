@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on computer vision and systems  <br>👯 I’m looking to collaborate on AIML and research projects. <br>🌱 I’m currently mastering cloud and pytorch <br>💬 Ask me about Machine learning and AI <br>⚡ Fun fact: I've volunteered G20 University summit 
+🔭 I’m currently working on Machine Learning models and MLOPS  <br>👯 I’m looking to collaborate on AIML and research projects. <br>🌱 I’m currently mastering cloud and pytorch <br>💬 Ask me about Machine learning and AI <br>⚡ Fun fact: I've volunteered G20 University summit 
 
 
 ## 🌐 Socials:
