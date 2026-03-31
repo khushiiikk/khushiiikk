@@ -63,19 +63,9 @@
 
 </p>
 
----
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khushiiikk&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity (Animated)
+## 📈 Contribution Activity 
 
 <p align="center">
 
@@ -85,31 +75,21 @@
 
 ---
 
-## 🔝 Top Contributed Projects
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=khushiiikk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-## ✨ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+## ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -122,3 +102,4 @@
 🤖 Machine Learning Systems
 ⚙️ MLOps & Deployment
 ☁️ Cloud-Based AI Pipelines
+Learning French Language 🙊
