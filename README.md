@@ -1,30 +1,30 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Khushi</h1>
+<h1 align="center">Hey folks 👋, I'm Khushi Kumari 🧑‍🎓</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+AI+%7C+ML+Engineer;Building+ML+Systems+%26+MLOps;Turning+Data+Into+Insights;Always+Learning+%F0%9F%9A%80" />
 </p>
 
----
-
 ## 🌌 About Me
 
-- 🔭 Working on **Machine Learning models & MLOps**
-- 🤝 Open to **AIML & Research collaborations**
-- 🌱 Currently learning **Cloud + PyTorch**
-- 💬 Ask me about **Data Analytics, ML & AI**
-- ⚡ Fun fact: Volunteered at **G20 University Summit**
+- 🔭 Working on **Machine Learning models & Projects**
+- 🤝 Open to **AIML, Research, Hirings and collaborations**
+- 🌱 Currently learning **MLOps and PySpark**
+- 💬 Ask me about **Data Analytics, ML & AI, Space, Military** 💻👩‍🎓🪖🇮🇳
+- ⚡ Fun fact 1: Volunteered at **G20 University Summit at BharatMandapam, New Delhi**
+- ⚡ Fun fact 2: I can speak 6 Languages 😼
+
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/khushikumari28"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="YOUR_X"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="K.khushikumari.mail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
